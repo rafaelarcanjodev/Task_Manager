@@ -45,7 +45,7 @@ Certifique-se de ter o Java 17+ e o Maven instalados.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/rafarcanjoatos/taskManager]
+    git clone [https://github.com/rafarcanjoatos/Task_Manager]
     cd taskManager
     ```
 2.  **Compile o projeto:**
@@ -65,7 +65,7 @@ Esta é a forma mais fácil de subir a aplicação e o banco de dados. Certifiqu
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/rafarcanjoatos/taskManager]
+    git clone [https://github.com/rafarcanjoatos/Task_Manager]
     cd taskManager
     ```
 2.  **[Docker Compose] Build e suba os serviços:**
